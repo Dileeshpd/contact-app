@@ -1,0 +1,20 @@
+      Contact management app
+
+ 1. create angular project
+ 2.clean the code
+ 3.run project
+ 4.link all external library: bootstrap, font awsome, font
+ 5.create components
+    1.header
+    2.footer
+    3.all-contacts
+    4.add-contacts
+    5.view-contacts
+    6.edit-contacts
+ 6. delete all spec.ts files from each uderdefined projects
+ 7. set up path for each components
+    3.all-contacts: path -http//localhost:4200/
+    4.add-contacts:: path -http//localhost:4200/add-contacts
+    5.view-contacts: path -http//localhost:4200/view-contacts
+    6.edit-contacts: path -http//localhost:4200/edit-contacts
+8. To navigate according to component use router 
